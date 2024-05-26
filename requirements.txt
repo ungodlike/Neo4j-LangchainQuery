@@ -1,0 +1,10 @@
+ipykernel==6.29.4
+ipython==8.18.1
+jupyter-client==8.6.2
+jupyter-core==5.7.2
+langchain==0.2.1
+langchain-community==0.2.1
+langchain-core==0.2.1
+langchain-openai==0.1.7
+neo4j==5.20.0
+openai==1.30.3
